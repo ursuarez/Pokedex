@@ -1,0 +1,17 @@
+body
+{
+	margin: 0 auto;
+	background-color: #F9272E;
+	font-family: segoe ui;
+	text-align: center;
+} 
+
+#all
+{
+	width: 853px;
+	margin: 0 auto;
+	padding: 10px;
+	box-shadow: #333 0px 0px 10px;
+	background-color: #fff;
+	text-align: center;
+}
