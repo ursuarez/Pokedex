@@ -5,7 +5,7 @@ function Pokemon(n,v,a,t,g){
 	this.tipo = t;
 	this.grito=g;
 	
-	this.gritar=function(){
+	this.gritar = function(){
 			alert(this.grito);
 			}
 }
